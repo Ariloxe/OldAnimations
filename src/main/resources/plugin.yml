@@ -1,0 +1,5 @@
+name: LegacyPvP
+version: '${project.version}'
+main: fr.ariloxe.legacypvp.LegacyPvP
+api-version: '1.21.4'
+author: Ariloxe
